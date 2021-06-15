@@ -1,0 +1,2 @@
+pyspark==2.4.8
+pyspark[sql]==2.4.8
